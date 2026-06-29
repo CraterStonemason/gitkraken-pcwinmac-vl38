@@ -1,4 +1,4 @@
-# 
+# Novo GitKraken scripts para Mac OS | Código aberto GitKraken scripts para PC Windows. Com suporte a múltiplas contas e ferramentas de build — otimizado para máximo desempenho em cada plataforma.
 
 
 
